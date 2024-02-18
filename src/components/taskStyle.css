@@ -1,0 +1,32 @@
+.whiteTheme{
+
+    background-color: aqua;
+    color: blue;
+}
+
+.whiteTheme ul li{
+    color: blueviolet;
+    background-color: chocolate;
+}
+
+.whiteTheme input[type="text"]{
+    color: crimson;
+    background-color: yellow;
+
+}
+
+.darkTheme{
+    background-color:crimson;
+    color:thistle;
+
+}
+.darkTheme ul li{
+    color:blue;
+    background-color:yellowgreen;
+}
+
+.darkTheme input[type="text"]{
+    color:blue;
+    background-color:violet;
+
+}
